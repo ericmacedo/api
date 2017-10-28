@@ -1,0 +1,93 @@
+{
+    "name": "LIBRAS",
+    "id": 1,
+    "poseLibs": [
+        {
+            "name": "articulation_points",
+            "bones": ["upperarm_right", "forearm_right"],
+            "configs": [
+                {
+                    "upperarm_right": [0.0, 0.0, 0.0],
+                    "forearm_right": [0.55, 0.33, 0.0]
+                },
+                {
+                    "upperarm_right": [0.0, 0.0, 0.0],
+                    "forearm_right": [0.45, 0.2, 0.0]
+                },
+                {
+                    "upperarm_right": [0.0, 0.0, 0.2],
+                    "forearm_right": [0.55, 0.1, 0.0]
+                },
+                {
+                    "upperarm_right": [0.0, 0.05, 0.0],
+                    "forearm_right": [0.5, 0.0, 0.1]
+                },
+                {
+                    "upperarm_right": [0.0, 0.3, 0.36],
+                    "forearm_right": [0.45, 0.0, 0.0]
+                },
+                {
+                    "upperarm_right": [0.0, 0.3, 0.36],
+                    "forearm_right": [0.25, 0.25, 0.0]
+                }
+            ]
+        },
+        {
+    	   "name": "rest_pose",
+           "bones": [
+                "upperarm_right", "forearm_right", "wrist_right", 
+                "thumb_right_01", "thumb_right_02", "thumb_right_03", 
+                "index_right_01", "index_right_02", "index_right_03", 
+                "middle_right_01", "middle_right_02", "middle_right_03", 
+                "ring_right_01", "ring_right_02","ring_right_03", 
+                "pinky_right_01", "pinky_right_02", "pinky_right_03"
+                "upperarm_right", "forearm_right", "wrist_right", 
+                "thumb_right_01", "thumb_right_02", "thumb_right_03", 
+                "index_right_01", "index_right_02", "index_right_03", 
+                "middle_right_01", "middle_right_02", "middle_right_03", 
+                "ring_right_01", "ring_right_02","ring_right_03", 
+                "pinky_right_01", "pinky_right_02", "pinky_right_03"
+            ], 
+           "configs": [
+                {
+                   "upperarm_right": [-80.0, 15.0, -15.0],
+                    "forearm_right": [0.0, 55.0, -30.0],
+                    "wrist_right": [0.0, 160.0, 10.0],
+                    "thumb_right_01": [0.0, 0.0, 0.0],
+                    "thumb_right_02": [0.0, 0.0, 0.0],
+                    "thumb_right_03": [0.0, 0.0, 0.0],
+                    "index_right_01": [0.0, 0.0, 0.0],
+                    "index_right_02": [0.0, 0.0, 0.0],
+                    "index_right_03": [0.0, 0.0, 0.0],
+                    "middle_right_01": [0.0, 0.0, 0.0],
+                    "middle_right_02": [0.0, 0.0, 0.0],
+                    "middle_right_03": [0.0, 0.0, 0.0],
+                    "ring_right_01": [0.0, 0.0, 0.0],
+                    "ring_right_02": [0.0, 0.0, 0.0],
+                    "ring_right_03": [0.0, 0.0, 0.0],
+                    "pinky_right_01": [0.0, 0.0, 0.0],
+                    "pinky_right_02": [0.0, 0.0, 0.0],
+                    "pinky_right_03": [0.0, 0.0, 0.0],
+                    "upperarm_left": [-80.0, 15.0, -15.0],
+                    "forearm_left": [0.0, 55.0, -30.0],
+                    "wrist_left": [0.0, 160.0, 10.0],
+                    "thumb_left_01": [0.0, 0.0, 0.0],
+                    "thumb_left_02": [0.0, 0.0, 0.0],
+                    "thumb_left_03": [0.0, 0.0, 0.0],
+                    "index_left_01": [0.0, 0.0, 0.0],
+                    "index_left_02": [0.0, 0.0, 0.0],
+                    "index_left_03": [0.0, 0.0, 0.0],
+                    "middle_left_01": [0.0, 0.0, 0.0],
+                    "middle_left_02": [0.0, 0.0, 0.0],
+                    "middle_left_03": [0.0, 0.0, 0.0],
+                    "ring_left_01": [0.0, 0.0, 0.0],
+                    "ring_left_02": [0.0, 0.0, 0.0],
+                    "ring_left_03": [0.0, 0.0, 0.0],
+                    "pinky_left_01": [0.0, 0.0, 0.0],
+                    "pinky_left_02": [0.0, 0.0, 0.0],
+                    "pinky_left_03": [0.0, 0.0, 0.0]
+                }
+        	]
+       }
+    ]
+}
