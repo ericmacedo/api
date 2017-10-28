@@ -35,19 +35,19 @@
         {
     	   "name": "rest_pose",
            "bones": [
-                "upperarm_right", "forearm_right", "wrist_right", 
-                "thumb_right_01", "thumb_right_02", "thumb_right_03", 
-                "index_right_01", "index_right_02", "index_right_03", 
-                "middle_right_01", "middle_right_02", "middle_right_03", 
-                "ring_right_01", "ring_right_02","ring_right_03", 
+                "upperarm_right", "forearm_right", "wrist_right",
+                "thumb_right_01", "thumb_right_02", "thumb_right_03",
+                "index_right_01", "index_right_02", "index_right_03",
+                "middle_right_01", "middle_right_02", "middle_right_03",
+                "ring_right_01", "ring_right_02","ring_right_03",
                 "pinky_right_01", "pinky_right_02", "pinky_right_03"
-                "upperarm_right", "forearm_right", "wrist_right", 
-                "thumb_right_01", "thumb_right_02", "thumb_right_03", 
-                "index_right_01", "index_right_02", "index_right_03", 
-                "middle_right_01", "middle_right_02", "middle_right_03", 
-                "ring_right_01", "ring_right_02","ring_right_03", 
+                "upperarm_right", "forearm_right", "wrist_right",
+                "thumb_right_01", "thumb_right_02", "thumb_right_03",
+                "index_right_01", "index_right_02", "index_right_03",
+                "middle_right_01", "middle_right_02", "middle_right_03",
+                "ring_right_01", "ring_right_02","ring_right_03",
                 "pinky_right_01", "pinky_right_02", "pinky_right_03"
-            ], 
+            ],
            "configs": [
                 {
                    "upperarm_right": [-80.0, 15.0, -15.0],
@@ -68,9 +68,9 @@
                     "pinky_right_01": [0.0, 0.0, 0.0],
                     "pinky_right_02": [0.0, 0.0, 0.0],
                     "pinky_right_03": [0.0, 0.0, 0.0],
-                    "upperarm_left": [-80.0, 15.0, -15.0],
-                    "forearm_left": [0.0, 55.0, -30.0],
-                    "wrist_left": [0.0, 160.0, 10.0],
+                    "upperarm_left": [80.0, -15.0, 15.0],
+                    "forearm_left": [0.0, -55.0, 30.0],
+                    "wrist_left": [0.0, -160.0, -10.0],
                     "thumb_left_01": [0.0, 0.0, 0.0],
                     "thumb_left_02": [0.0, 0.0, 0.0],
                     "thumb_left_03": [0.0, 0.0, 0.0],
