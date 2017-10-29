@@ -4,22 +4,24 @@
     "configs": [
         {
             "beats": 1.0,
-            "upperarm_right": [-70.0, -30.0, -10],
-            "forearm_right": [0.0, 45.0, -120.0],
-            "wrist_right": [45.0, 120.0, 0.0],
-            "index_right_01": [60.0, 15.0, -5.0],
-            "thumb_right_01": [30.0, 0.0, 0.0],
-            "thumb_right_02": [0.0, 0.0, -20.0],
-            "thumb_right_03": [0.0, 0.0, -20.0],
-            "middle_right_01": [90.0, 0.0, 0.0],
-            "middle_right_02": [120.0, 0.0, 0.0],
-            "middle_right_03": [90.0, 0.0, 0.0],
-            "ring_right_01": [90.0, 0.0, 0.0],
-            "ring_right_02": [120.0, 0.0, 0.0],
-            "ring_right_03": [90.0, 0.0, 0.0],
-            "pinky_right_01": [90.0, 0.0, 0.0],
-            "pinky_right_02": [120.0, 0.0, 0.0],
-            "pinky_right_03": [90.0, 0.0, 0.0]
+            "config": {
+                "upperarm_right": [-70.0, -30.0, -10],
+                "forearm_right": [0.0, 45.0, -120.0],
+                "wrist_right": [45.0, 120.0, 0.0],
+                "index_right_01": [60.0, 15.0, -5.0],
+                "thumb_right_01": [30.0, 0.0, 0.0],
+                "thumb_right_02": [0.0, 0.0, -20.0],
+                "thumb_right_03": [0.0, 0.0, -20.0],
+                "middle_right_01": [90.0, 0.0, 0.0],
+                "middle_right_02": [120.0, 0.0, 0.0],
+                "middle_right_03": [90.0, 0.0, 0.0],
+                "ring_right_01": [90.0, 0.0, 0.0],
+                "ring_right_02": [120.0, 0.0, 0.0],
+                "ring_right_03": [90.0, 0.0, 0.0],
+                "pinky_right_01": [90.0, 0.0, 0.0],
+                "pinky_right_02": [120.0, 0.0, 0.0],
+                "pinky_right_03": [90.0, 0.0, 0.0]
+            }
         }
     ]
 }

@@ -1,17 +1,19 @@
 {
     "name": "escola",
-	"beats": 3.0,
-	"signs": [
+    "beats": 3.0,
+    "signs": [
         {
             "name": "casa",
-			"beats": 1.0,
-			"configs": [
+            "beats": 1.0,
+            "configs": [
                 {
                     "beats": 1.0,
-                    "upperarm_right": [-70.0, 15.0, 60.0],
-                    "upperarm_left": [-70.0, -15.0, -60.0],
-                    "forearm_right": [15.0, 15.0, -115.0],
-                    "forearm_left": [15.0, -15.0, 115.0]
+                    "config": {
+                        "upperarm_right": [-70.0, 15.0, 60.0],
+                        "upperarm_left": [-70.0, -15.0, -60.0],
+                        "forearm_right": [15.0, 15.0, -115.0],
+                        "forearm_left": [15.0, -15.0, 115.0]
+                    }
                 }
             ]
         },
@@ -21,28 +23,38 @@
             "configs": [
                 {
                     "beats": 0.4,
-                    "upperarm_right": [-90.0, 15.0, -30.0],
-                    "upperarm_left": [-90.0, -15.0, 30.0],
-                    "forearm_right": [0.0, 45.0, -120.0],
-                    "forearm_left": [0.0, -45.0, 110.0],
-                    "wrist_right": [0.0, 90.0, 0],
-                    "wrist_left": [0.0, -90.0, 0.0]
+                    "config": {
+                        "upperarm_right": [-90.0, 15.0, -30.0],
+                        "upperarm_left": [-90.0, -15.0, 30.0],
+                        "forearm_right": [0.0, 45.0, -120.0],
+                        "forearm_left": [0.0, -45.0, 110.0],
+                        "wrist_right": [0.0, 90.0, 0],
+                        "wrist_left": [0.0, -90.0, 0.0]
+                    }
                 },
                 {
                     "beats": 0.4,
-                    "forearm_right": [0.0, 45.0, -130.0]
+                    "config": {
+                        "forearm_right": [0.0, 45.0, -130.0]
+                    }
                 },
                 {
                     "beats": 0.4,
-                    "forearm_right": [0.0, 45.0, -120.0]
+                    "config": {
+                        "forearm_right": [0.0, 45.0, -120.0]
+                    }
                 },
                 {
                     "beats": 0.4,
-                    "forearm_right": [0.0, 45.0, -130.0]
+                    "config": {
+                        "forearm_right": [0.0, 45.0, -130.0]
+                    }
                 },
                 {
                     "beats": 0.4,
-                    "forearm_right": [0.0, 45.0, -120.0]
+                    "config": {
+                        "forearm_right": [0.0, 45.0, -120.0]
+                    }
                 }
             ]
         }
