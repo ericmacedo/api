@@ -33,7 +33,7 @@
             "beats": 3.0,
             "configs": [
                 {
-                    "beats": 1.0,
+                    "beats": 1.5,
                     "long": false,
                     "config": {
                         "upperarm_right": [-70.0, -30.0, -10.0],
@@ -68,7 +68,7 @@
                     "long": false,
                     "config": {
                         "upperarm_right": [-100.0, -45.0, -10.0],
-                        "forearm_right": [60.0, 70.0, -100.0],
+                        "forearm_right": [60.0, 70.0, -10.0],
                         "wrist_right": [0.0, 160.0, 0.0],
                         "index_right_01": [30.0, 15.0, -5.0]
                     }
