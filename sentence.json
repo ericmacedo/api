@@ -6,6 +6,7 @@
             "configs": [
                 {
                     "beats": 1.0,
+                    "long": false,
                     "config": {
                         "upperarm_right": [-70.0, -30.0, -10.0],
                         "forearm_right": [0.0, 45.0, -120.0],
@@ -33,6 +34,7 @@
             "configs": [
                 {
                     "beats": 1.0,
+                    "long": false,
                     "config": {
                         "upperarm_right": [-70.0, -30.0, -10.0],
                         "forearm_right": [0.0, 45.0, -120.0],
@@ -54,6 +56,7 @@
                 },
                 {
                     "beats": 1.0,
+                    "long": false,
                     "config": {
                         "forearm_right": [60.0, 70.0, -100.0],
                         "wrist_right": [0.0, 160.0, 0.0],
@@ -62,6 +65,7 @@
                 },
                 {
                     "beats": 1.0,
+                    "long": false,
                     "config": {
                         "upperarm_right": [-100.0, -45.0, -10.0],
                         "forearm_right": [60.0, 70.0, -100.0],
@@ -81,6 +85,7 @@
         			"configs": [
                         {
                             "beats": 1.0,
+                            "long": true,
                             "config": {
                                 "upperarm_right": [-70.0, 15.0, -60.0],
                                 "upperarm_left": [-70.0, -15.0, 60.0],
@@ -98,6 +103,7 @@
                     "configs": [
                         {
                             "beats": 0.4,
+                            "long": false,
                             "config": {
                                 "upperarm_right": [-90.0, 15.0, -30.0],
                                 "upperarm_left": [-90.0, -15.0, 30.0],
@@ -109,24 +115,28 @@
                         },
                         {
                             "beats": 0.4,
+                            "long": false,
                             "config": {
                                 "forearm_right": [0.0, 45.0, -130.0]
                             }
                         },
                         {
                             "beats": 0.4,
+                            "long": false,
                             "config": {
                                 "forearm_right": [0.0, 45.0, -120.0]
                             }
                         },
                         {
                             "beats": 0.4,
+                            "longs": false,
                             "config": {
                                 "forearm_right": [0.0, 45.0, -130.0]
                             }
                         },
                         {
                             "beats": 0.4,
+                            "long": false,
                             "config": {
                                 "forearm_right": [0.0, 45.0, -120]
                             }
