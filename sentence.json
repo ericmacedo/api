@@ -82,8 +82,8 @@
                         {
                             "beats": 1.0,
                             "config": {
-                                "upperarm_right": [-70.0, 15.0, 60.0],
-                                "upperarm_left": [-70.0, -15.0, -60.0],
+                                "upperarm_right": [-70.0, 15.0, -60.0],
+                                "upperarm_left": [-70.0, -15.0, 60.0],
                                 "forearm_right": [15.0, 15.0, -115.0],
                                 "forearm_left": [15.0, -15.0, 115.0],
                                 "wrist_right": [0.0, 160.0, 0.0],
