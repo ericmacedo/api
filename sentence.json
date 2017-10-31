@@ -55,7 +55,7 @@
                     }
                 },
                 {
-                    "beats": 1.0,
+                    "beats": 1.5,
                     "long": true,
                     "config": {
                         "upperarm_right": [-100.0, -45.0, -10.0],
@@ -75,7 +75,7 @@
         			"beats": 1.0,
         			"configs": [
                         {
-                            "beats": 0.5,
+                            "beats": 1.0,
                             "long": true,
                             "config": {
                                 "upperarm_right": [-70.0, 15.0, -60.0],
