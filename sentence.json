@@ -115,7 +115,7 @@
                             "beats": 0.4,
                             "long": false,
                             "config": {
-                                "forearm_right": [0.0, 45.0, 230.0]
+                                "forearm_right": [0.0, 45.0, 240.0]
                             }
                         },
                         {
