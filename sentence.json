@@ -8,13 +8,13 @@
                     "beats": 1.0,
                     "long": false,
                     "config": {
-                        "upperarm_right": [-70.0, -30.0, -10.0],
-                        "forearm_right": [0.0, 45.0, -120.0],
+                        "upperarm_right": [290.0, 330.0, 350.0],
+                        "forearm_right": [0.0, 45.0, 240.0],
                         "wrist_right": [45.0, 120.0, 0.0],
-                        "index_right_01": [60.0, 15.0, -5.0],
+                        "index_right_01": [60.0, 15.0, 355.0],
                         "thumb_right_01": [30.0, 0.0, 0.0],
-                        "thumb_right_02": [0.0, 0.0, -20.0],
-                        "thumb_right_03": [0.0, 0.0, -20.0],
+                        "thumb_right_02": [0.0, 0.0, 340.0],
+                        "thumb_right_03": [0.0, 0.0, 340.0],
                         "middle_right_01": [90.0, 0.0, 0.0],
                         "middle_right_02": [120.0, 0.0, 0.0],
                         "middle_right_03": [90.0, 0.0, 0.0],
@@ -36,13 +36,13 @@
                     "beats": 1.5,
                     "long": false,
                     "config": {
-                        "upperarm_right": [-70.0, -30.0, -10.0],
-                        "forearm_right": [0.0, 45.0, -120.0],
+                        "upperarm_right": [290.0, 330.0, 350.0],
+                        "forearm_right": [0.0, 45.0, 240.0],
                         "wrist_right": [45.0, 120.0, 0.0],
-                        "index_right_01": [60.0, 15.0, -5.0],
+                        "index_right_01": [60.0, 15.0, 355.0],
                         "thumb_right_01": [30.0, 0.0, 0.0],
-                        "thumb_right_02": [0.0, 0.0, -20.0],
-                        "thumb_right_03": [0.0, 0.0, -20.0],
+                        "thumb_right_02": [0.0, 0.0, 340.0],
+                        "thumb_right_03": [0.0, 0.0, 340.0],
                         "middle_right_01": [90.0, 0.0, 0.0],
                         "middle_right_02": [120.0, 0.0, 0.0],
                         "middle_right_03": [90.0, 0.0, 0.0],
@@ -58,10 +58,10 @@
                     "beats": 1.5,
                     "long": true,
                     "config": {
-                        "upperarm_right": [-100.0, -45.0, -10.0],
-                        "forearm_right": [60.0, 70.0, -10.0],
+                        "upperarm_right": [260.0, 315.0, 350.0],
+                        "forearm_right": [60.0, 70.0, 350.0],
                         "wrist_right": [0.0, 160.0, 0.0],
-                        "index_right_01": [30.0, 15.0, -5.0]
+                        "index_right_01": [30.0, 15.0, 355.0]
                     }
                 }
             ]
@@ -78,12 +78,12 @@
                             "beats": 1.0,
                             "long": true,
                             "config": {
-                                "upperarm_right": [-70.0, 15.0, -60.0],
-                                "upperarm_left": [-70.0, -15.0, 60.0],
-                                "forearm_right": [15.0, 15.0, -115.0],
-                                "forearm_left": [15.0, -15.0, 115.0],
+                                "upperarm_right": [290.0, 15.0, 300.0],
+                                "upperarm_left": [290.0, 345.0, 60.0],
+                                "forearm_right": [15.0, 15.0, 245.0],
+                                "forearm_left": [15.0, 345.0, 115.0],
                                 "wrist_right": [0.0, 160.0, 0.0],
-                                "wrist_left": [0.0, -160.0, 0.0]
+                                "wrist_left": [0.0, 200.0, 0.0]
                             }
                         }
                     ]
@@ -96,40 +96,40 @@
                             "beats": 0.4,
                             "long": false,
                             "config": {
-                                "upperarm_right": [-90.0, 15.0, -30.0],
-                                "upperarm_left": [-90.0, -15.0, 30.0],
-                                "forearm_right": [0.0, 45.0, -120.0],
-                                "forearm_left": [0.0, -45.0, 110.0],
+                                "upperarm_right": [270.0, 15.0, 330.0],
+                                "upperarm_left": [270.0, 345.0, 30.0],
+                                "forearm_right": [0.0, 45.0, 240.0],
+                                "forearm_left": [0.0, 315.0, 110.0],
                                 "wrist_right": [0.0, 90.0, 0],
-                                "wrist_left": [0.0, -90.0, 0.0]
+                                "wrist_left": [0.0, 270.0, 0.0]
                             }
                         },
                         {
                             "beats": 0.4,
                             "long": false,
                             "config": {
-                                "forearm_right": [0.0, 45.0, -130.0]
+                                "forearm_right": [0.0, 45.0, 230.0]
                             }
                         },
                         {
                             "beats": 0.4,
                             "long": false,
                             "config": {
-                                "forearm_right": [0.0, 45.0, -120.0]
+                                "forearm_right": [0.0, 45.0, 230.0]
                             }
                         },
                         {
                             "beats": 0.4,
                             "long": false,
                             "config": {
-                                "forearm_right": [0.0, 45.0, -130.0]
+                                "forearm_right": [0.0, 45.0, 230.0]
                             }
                         },
                         {
                             "beats": 0.4,
                             "long": false,
                             "config": {
-                                "forearm_right": [0.0, 45.0, -120]
+                                "forearm_right": [0.0, 45.0, 240.0]
                             }
                         }
                     ]
